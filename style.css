@@ -1,0 +1,20 @@
+h1{
+    color: royalblue;
+}
+a{
+    text-decoration: none;
+    cursor: grab;
+}
+#second{
+    color:red ;
+}
+
+.box{
+    color: rosybrown;
+    margin:20px ;
+    padding: 10px;
+    border: 3px;
+    border-style: dotted  ;
+    display: flex;
+    justify-content:center ;
+}

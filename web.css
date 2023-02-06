@@ -1,0 +1,23 @@
+.web{
+    color: black;
+    margin:10px ;
+    padding: 20px 43px;
+    border: 3px;
+    border-style: dotted;
+    display: flex;
+    background-color:palegreen;
+    justify-content:cente;
+}
+.home{
+    
+    margin-right:200px ;
+    padding: 8px 20px;
+    font-size: x-large;
+    justify-content: center;
+}
+.contact{
+    margin-left:200px ;
+    padding: 8px 20px;
+    font-size: x-large;
+    justify-content: center;
+}
